@@ -1,6 +1,6 @@
 ![alt text](https://blog.udacity.com/wp-content/uploads/2018/05/Udacity-Data-Scientist-Nanodegree-program.png)
 # Disaster Response Pipeline Project
-
+# Created by Nannan Chen on Jun.13th 2020
 # Installation
 The required libraries including: pandas, sqlalchemy, re, pickle, nltk and sklearn. "punck","words","stopwords" and "wordnet"
 
