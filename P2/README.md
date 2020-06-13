@@ -5,7 +5,7 @@ The required libraries including: pandas, sqlalchemy, re, pickle, nltk and sklea
 
 # Project Motivation
 This is the my second project with Udacity Data Science nanodegree.
-In this project,disaster data from Figure Eight will be analyzed and used to build a model for an API that classifies disaster messages. The utlimate goal is to build a web app where an emergency worker can input a new message and get classification results in several categories. The web app will also display visualizations of the data. 
+In this project,disaster data from Figure Eight will be analyzed and used to build a model for an API that classifies disaster messages.  My project will include a web app where an emergency worker can input a new message and get classification results in several categories. The web app will also display visualizations of the data.
 
 # File Descriptions
 There are five foleders:
