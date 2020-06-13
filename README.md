@@ -1,11 +1,12 @@
+![alt text](https://blog.udacity.com/2018/05/introducing-udacity-data-scientist-nanodegree-program.html)
 # Disaster Response Pipeline Project
 
 # Installation
 The required libraries including: pandas, sqlalchemy, re, pickle, nltk and sklearn. "punck","words","stopwords" and "wordnet"
 
 # Project Motivation
-This is the my second project in Udacity Data Science nanedegree.
-In this project,disaster data from Figure Eight will be analyzed and used to build a model for an API that classifies disaster messages. The utlimate goal is to build a web app where an emergency worker can input a new message and get classification results in several categories. The web app will also display visualizations of the data. 
+This is the my second project with Udacity Data Science nanodegree.
+In this project, disaster data from Figure Eight will be analyzed and used to build a model for an API that classifies disaster messages. The utlimate goal is to build a web app where an emergency worker can input a new message and get classification results in several categories. The web app will also display visualizations of the data. 
 
 # File Descriptions
 There are five foleders:
