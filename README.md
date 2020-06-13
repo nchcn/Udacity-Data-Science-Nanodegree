@@ -1,4 +1,4 @@
-![alt text](https://blog.udacity.com/2018/05/introducing-udacity-data-scientist-nanodegree-program.html)
+![alt text](https://blog.udacity.com/wp-content/uploads/2018/05/Udacity-Data-Scientist-Nanodegree-program.png)
 # Disaster Response Pipeline Project
 
 # Installation
