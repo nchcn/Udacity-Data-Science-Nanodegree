@@ -9,6 +9,5 @@ There are four projects:
 
 ### Project 1: Blogging about Data Science Problems and Solutions with AirBnB
 ### Project 2: Data Engineering with FigureEight
-
 ### Project 3: Build a Recommendation Engine with IBM
 ### Project 4: Capstone Project
