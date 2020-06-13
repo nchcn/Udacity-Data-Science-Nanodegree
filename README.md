@@ -1,15 +1,11 @@
 ![alt text](https://blog.udacity.com/wp-content/uploads/2018/05/Udacity-Data-Scientist-Nanodegree-program.png)
 # Disaster Response Pipeline Project
-### Created by Nannan Chen on Jun.13th 2020
-# Installation
-The required libraries including: pandas, sqlalchemy, re, pickle, nltk and sklearn. "punck","words","stopwords" and "wordnet"
 
-# Project Motivation
-This is the my second project with Udacity Data Science nanodegree.
-In this project, disaster data from Figure Eight will be analyzed and used to build a model for an API that classifies disaster messages. The utlimate goal is to build a web app where an emergency worker can input a new message and get classification results in several categories. The web app will also display visualizations of the data. 
+# Nanodegree Motivation
+I wish to gain more data science related experience and hope to land a data scientist internship next year.
 
-# File Descriptions
-There are five foleders:
+# Project Descriptions
+There are four project:
 
 1. data folder
 	- disaster_categories.csv: dataset including all the categories values
@@ -23,22 +19,3 @@ There are five foleders:
 	- run.py: Flask file to run the web application
 4. templates contains html file for the web applicatin
 5. notebook: contains the jupter notebook strips as a reference
-
-# Results
-An ETL pipleline was built to read data from two csv files, clean data, and save data into a SQLite database. 
-Then a machine learning pipepline was built to train a randomforest model to performs multi-output classification.
-At last, a Flask app was created to show data visualization and classify the message that user enters on the web page.
-
-
-### Instructions:
-1. Run the following commands in the project's root directory to set up your database and model.
-
-    - To run ETL pipeline that cleans data and stores in database
-        `python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db`
-    - To run ML pipeline that trains classifier and saves
-        `python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl`
-
-2. Run the following command in the app's directory to run your web app.
-    `python run.py`
-
-3. Go to http://0.0.0.0:3001/
